@@ -1,4 +1,4 @@
-# faster-propainter
+# faster-propainter（仅适用静态水印）
 核心思路：把水印区域裁剪出来，去水印，把去水印后的区域拼接回去
 
 ## 视频介绍
@@ -19,5 +19,5 @@ pip install ptlflow
 开始执行
 
 ## 相关项目
-[ProPainter](https://github.com/sczhou/ProPainter)  
+[ProPainter](https://github.com/sczhou/ProPainter)
 [ProPainter-Webui](https://github.com/halfzm/ProPainter-Webui)
