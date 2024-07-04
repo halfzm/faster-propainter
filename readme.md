@@ -5,7 +5,10 @@
 [比propainter快了不止一百倍的AI视频去水印工具](https://www.bilibili.com/video/BV1YC411x7Mm)
 
 ## 环境配置
-参考propainter项目
+在propainter项目的基础上安装`ptlflow`
+```bash
+pip install ptlflow 
+```
 
 
 ## 快速启动
@@ -14,3 +17,7 @@
 
 ```python start.py```
 开始执行
+
+## 相关项目
+[ProPainter](https://github.com/sczhou/ProPainter)  
+[ProPainter-Webui](https://github.com/halfzm/ProPainter-Webui)
