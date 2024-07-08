@@ -2,7 +2,7 @@
 核心思路：把水印区域裁剪出来，去水印，把去水印后的区域拼接回去
 
 ## 视频介绍
-[比propainter快了不止一百倍的AI视频去水印工具](https://www.bilibili.com/video/BV1YC411x7Mm)
+[百倍速去水印再加速，基于ptflow的propainter加速版AI视频去水印工具](https://www.bilibili.com/video/BV1MJ4m1M7nQ)
 
 ## 环境配置
 在propainter项目的基础上安装`ptlflow`
